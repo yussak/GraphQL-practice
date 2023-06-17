@@ -1,0 +1,25 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YusukeSakuraba/GraphQL-practice.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "YusukeSakuraba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YusukeSakuraba/GraphQL-practice/issues"
+  },
+  "homepage": "https://github.com/YusukeSakuraba/GraphQL-practice#readme",
+  "dependencies": {
+    "graphql": "^16.6.0"
+  }
+}
